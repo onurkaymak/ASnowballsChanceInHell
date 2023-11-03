@@ -71,7 +71,7 @@ Every action shapes the Snowball's destiny, making it more than just a test of s
 ### Cloning this repository
   > Choose the project directory and in your terminal enter the command:
   ```
-  $ git clone https://github.com/jeremyjosol/ASnowballsChanceInHell.git
+  $ git clone https://github.com/onurkaymak/ASnowballsChanceInHell.git
   ``` 
 
 You are now ready to work with the Unity project, create or edit scripts, and collaborate with the team as needed. Make sure to consult the project-specific documentation for additional setup and usage instructions.
