@@ -6,7 +6,7 @@
 
 _By [Ian Bravo](https://github.com/ian-bravo), [Jonathan Cheng](https://github.com/joncheng-dev), [Onur Kaymak](https://github.com/onurkaymak), [Richard Barbour](https://github.com/rbarcode), & [Jeremy Josol](https://github.com/jeremyjosol)_.
 
-[Click to play!](https://jeremyjosol.github.io/ASnowballsChanceInHell/)
+[Click to play!](https://onurkaymak.github.io/ASnowballsChanceInHell/)
 
 ## About
 Embark on a remarkable journey as a resilient Snowball in the scorching depths of Hell, where every moment is a test of determination and willpower. Our intrepid hero, the Snowball, faces impossible challenges and seemingly insurmountable odds, a reflection of life's adversities. In this gripping adventure, the Snowball strives to make the impossible _possible_.
